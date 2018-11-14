@@ -1,6 +1,6 @@
 ---
-layout:post
-title:Test
+layout: post
+title: Test
 tag: [testArticle] 
 ---
 
