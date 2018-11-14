@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Test
+subtitle: title connected with subtitle?
 tag: [testArticle] 
 ---
 
