@@ -8,14 +8,14 @@ tag: [testArticle]
 
 ~~delete test~~
 
-``````python
+```python
 import requests
 
 res = requests.get('www.google.com')
 
 print(res.text)
 
-``````
+```
 
 
 
