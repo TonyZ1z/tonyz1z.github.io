@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Miao!
+title: tyz1z's blog
 
 # Short description of your site
 description: A fake blog
@@ -33,7 +33,7 @@ avatar: "/img/avatar-icon.png"
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
 # title-img: /path/to/image
-
+title-img: /img/avatar-icon.png
 # --- Background colour/image options --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
@@ -60,7 +60,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: tyz1z
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
